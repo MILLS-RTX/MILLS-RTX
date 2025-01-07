@@ -4,7 +4,7 @@
 - 💞️ Open to working with students, beginners, experienced coders, and tech enthusiasts on exciting projects. 
 - 📫 How to reach me earlmillenium43@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: My laptop gets more sleep than I do.
+- ⚡ Fun fact:
 
 <!---
 MILLS-RTX/MILLS-RTX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
