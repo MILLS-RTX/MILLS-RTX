@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MILLS-RTX
+- 👋 Hi, I’m @MILS-RTX
 - 👀 I’m interested in Programming, learning new technologies, and exploring the tech world.
 - 🌱 I’m currently learning Basic Java and foundational programming concepts. 
 - 💞️ Open to working with students, beginners, experienced coders, and tech enthusiasts on exciting projects. 
